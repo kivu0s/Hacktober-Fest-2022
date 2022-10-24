@@ -1,6 +1,6 @@
 public class LinearSearch {
     public static void main(String[] args) {
-        int[] nums = { 1, 15, 3, 7, 90 };
+        int[] nums = { 1, 15, 3, 7, 90 }; 
         System.out.println(search(nums, 122));
     }
 
